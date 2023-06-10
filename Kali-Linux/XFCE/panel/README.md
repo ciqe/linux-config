@@ -1,5 +1,12 @@
 # Kali Linux XFCE Panel Configuration
 
+## One Liner
+```bash
+wget https://github.com/ciqe/linux-config/raw/main/Kali-Linux/XFCE/panel/kali-linux_xfce_panel_config.zip && unzip -o kali-linux_xfce_panel_config.zip -d /home/kali/.config/xfce4/panel
+```
+<br/>
+
+## Download the file
 This will download the config files zipped as `kali-linux_xfce_panel_config.zip`
 
 ```bash
@@ -8,7 +15,7 @@ wget https://github.com/ciqe/linux-config/raw/main/Kali-Linux/XFCE/panel/kali-li
 
 After downloading go to below parts
 
-<br/><br/>
+<br/>
 
 ## Configure the file
 Generally config files for xfce panel resides in `/home/kali/.config/xfce4/panel` folder.
